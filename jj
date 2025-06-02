@@ -1,0 +1,8 @@
+ Implement and manage Continuous Integration and Continuous Deployment (CI/CD) pipelines.
+Use tools like Terraform, CloudFormation, or Ansible to automate infrastructure provisioning and management.
+Use monitoring tools (e.g., CloudWatch, Azure Monitor, Stackdriver) to track system performance and health.
+Optimization: Identify and implement optimizations to improve system performance and reduce costs.
+Implement security best practices, including identity and access management (IAM), encryption, and network security.
+Compliance: Ensure that cloud deployments comply with relevant regulations and standards.
+Set up and maintain cloud infrastructure (e.g., servers, databases, storage) using platforms like AWS, Azure, or Google Cloud.
+Resource Allocation: Ensure that resources are appropriately allocated and optimized for performance and cost efficiency
